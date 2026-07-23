@@ -1,0 +1,20 @@
+{
+  "name": "Macau & HK Companion",
+  "short_name": "MacauHK",
+  "description": "港澳8天亲子慢旅行行程手册",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF7F0",
+  "theme_color": "#FAF7F0",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "public/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
